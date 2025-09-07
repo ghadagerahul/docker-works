@@ -145,6 +145,4 @@ These are excellent references for deepening your Docker skills in Java environm
 
 ---
 
-### License
 
-*(If applicable, specify your project’s license here, e.g., MIT, Apache 2.0.)*
